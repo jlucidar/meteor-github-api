@@ -2,7 +2,7 @@
 
 This is a version of [Mike de Boer](https://github.com/mikedeboer)'s excellent
 [node-github](https://github.com/mikedeboer/node-github) npm module, repackaged
-for Meteor.
+for Meteor. The original repo is dead, a fork is now maintained by [kaisensoze](https://github.com/kaizensoz) [here](https://github.com/kaizensoze/node-github/).
 
 ## Example Usage
 You can use it in exactly the same way you would use the original package
