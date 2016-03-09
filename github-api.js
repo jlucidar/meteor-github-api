@@ -10,7 +10,7 @@ var Future = Npm.require("fibers/future");
  */
 GitHub = function(config) {
   var wrap,
-      Module = Npm.require("github"),
+      Module = Npm.require("github4"),
       interface = new Module(config);
 
   /**
