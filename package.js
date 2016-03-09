@@ -5,7 +5,7 @@ Package.describe({
   version: "0.2.4_1"
 });
 
-Npm.depends({github: '0.2.4'});
+Npm.depends({github4: '0.5.4'});
 
 Package.on_use(function (api) {
   api.versionsFrom("METEOR-CORE@0.9.0-atm");
